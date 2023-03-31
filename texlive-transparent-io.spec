@@ -1,6 +1,6 @@
 Name:		texlive-transparent-io
 Version:	64113
-Release:	1
+Release:	2
 Summary:	Show for approval the filenames used in \input, \openin, or \openout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/transparent-io
