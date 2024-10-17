@@ -3,7 +3,7 @@ Version:	64113
 Release:	2
 Summary:	Show for approval the filenames used in \input, \openin, or \openout
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/transparent-io
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/transparent-io
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/transparent-io.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/transparent-io.doc.r%{version}.tar.xz
